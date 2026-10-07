@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: diegoaristofanes.arc
+  baseUrl: diegoaristofanes.github.io/notes
   ignorePatterns:
     - private
     - templates
