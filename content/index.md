@@ -2,7 +2,7 @@
 title: Notas de Aristófanes
 ---
 
-Sou Diego Aristófanes, paraibano, e arquiteto formado na UFPB, atualmente pesquisador na área do Patrimônio Arquitetônico pela Universidade do Porto.
+Sou Diego Aristófanes, paraibano, arquiteto de formação pela UFPB e atualmente pesquisador na área do Patrimônio Arquitetônico pela Universidade do Porto.
 
 Este site consiste em um exercício de auto-publicação e independência de grandes plataformas tecnológicas, onde pretendo registrar e compartilhar ideias que por vezes me surgem.
 
