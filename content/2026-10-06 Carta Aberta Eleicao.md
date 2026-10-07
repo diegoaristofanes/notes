@@ -1,6 +1,6 @@
 ## Um chamado à reflexão após o primeiro turno
 
-Escrevo essa Carta Aberta dois dias após os resultados do primeiro turno das eleições para presidente da república de 2026. Este não tem por objetivo convencer ninguém a mudar o seu voto, mas tentar projetar alguma luz aos muitos amigos que vi se sentirem perdidos e desesperançados com os resultados que observamos no último dia 04. Dito isto, será um texto longo, mas que escrevo de plena consciência e sem auxílio de qualquer modelo de inteligência artificial.
+Escrevo essa Carta Aberta dois dias após os resultados do primeiro turno das eleições para presidente da república de 2026. Esta não tem por objetivo convencer ninguém a mudar o seu voto, mas tentar projetar alguma luz aos muitos amigos que vi se sentirem perdidos e desesperançados com os resultados que observamos no último dia 04. Dito isto, será um texto longo, mas que escrevo de plena consciência e sem auxílio de qualquer modelo de inteligência artificial.
 
 É importante ter em mente que essa eleição se trata de uma disputa assimétrica. Não falo de disputa entre dois partidos políticos, mas de uma disputa entre realidades paralelas em um mundo de pós-verdade[^1]. Temos aproximadamente 10 anos de cultivo de bolhas de disseminação de informação da extrema-direita. A maioria das pessoas que nela se encontram não são burras, ou ignorantes, ou malignas, mas carentes de um espaço onde possam se sentir acolhidas e ouvidas. 
 
